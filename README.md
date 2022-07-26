@@ -1,6 +1,7 @@
 
-#Andreas Alexander
-https://pbs.twimg.com/profile_images/1551988035818258433/YdwVIvY2_400x400.jpg
+# Andreas Alexander <br>
+
+<img src="https://pbs.twimg.com/profile_images/1551988035818258433/YdwVIvY2_400x400.jpg">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhsxuz&show_icons=true&theme=cobalt)
 <!--
