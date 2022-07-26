@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhsxuz&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on flutter ios project
-- 🌱 I’m currently learning flutter mobile development
+- 🔭 I’m currently working on flutter mobile app
+- 🌱 I’m currently learning flutter mobile app development
 - 👯 I’m looking to collaborate on web or mobile application projects
 - 📫 How to reach me: andreas.alexander@binus.ac.id
