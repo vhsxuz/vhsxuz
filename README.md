@@ -59,3 +59,5 @@ I'm passionate about learning more about databases technology and software devel
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=backend-api-project&theme=cobalt)](https://github.com/vhsxuz/backend-api-project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=database-lab-project&theme=cobalt)](https://github.com/vhsxuz/database-lab-project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=statement-against-mankind&theme=cobalt)](hhttps://github.com/vhsxuz/statements-against-mankind)
