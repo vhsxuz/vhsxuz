@@ -8,7 +8,7 @@
 # Andreas Alexander <br>
 
 <p align=center>
-  <a href="https://github.com/xhfmvls" target="blank">
+  <a href="https://www.linkedin.com/in/andreas-alexander-045a521a9/" target="blank">
     <img align="center" src="https://pbs.twimg.com/profile_images/1551988035818258433/YdwVIvY2_400x400.jpg" width=30% />
   </a>
 </p>
