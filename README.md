@@ -17,15 +17,15 @@
 <br>
 
 <p align=center>
-I'm passionate about learning more about databases technology and software development, such as mobile application and web application. Having work experiences as a laboratory assistant and frontend developer makes a positive impact on me. I'm a lifelong learner who appreciates for activities to do that will push me to keep learning.
+I'm passionate about learning more about data science and software development, such as mobile application and web application. Having work experiences as a laboratory assistant and frontend developer makes a positive impact on me. I'm a lifelong learner who appreciates for activities to do that will push me to keep learning.
 </p>
 
 <br>
 
 ## 🧐 About Myself
-- 🔭 I’m currently working on flutter mobile app
-- 🌱 I’m currently learning flutter mobile app development
-- 👯 I’m looking to collaborate on web or mobile application projects
+- 🔭 I’m currently working as a ios developer
+- 🌱 I’m currently learning swift mobile app development and data science
+- 👯 I’m looking to collaborate on data science projects
 - 💬 Ask me about anything. I'll gladly answer your questions
 - 📫 How to reach me: andreas.alexander@binus.ac.id
 
