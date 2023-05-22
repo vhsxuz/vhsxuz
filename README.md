@@ -52,10 +52,10 @@ I'm passionate about learning more about data science and software development, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhsxuz&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ## 💻 My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=streamlit-machine-learning&theme=cobalt)](https://github.com/vhsxuz/streamlit-machine-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=sentiment-analysis&theme=cobalt)](https://github.com/vhsxuz/streamlit-machine-learning)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=fullstack-project&theme=cobalt)](https://github.com/vhsxuz/fullstack-project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=backend-api-project&theme=cobalt)](https://github.com/vhsxuz/backend-api-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=valorant-eda&theme=cobalt)](https://github.com/vhsxuz/backend-api-project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=database-lab-project&theme=cobalt)](https://github.com/vhsxuz/database-lab-project)
