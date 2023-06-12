@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=vhsxuz)
 ![Github](https://img.shields.io/github/followers/vhsxuz?label=Followers&style=social)
-![Twitter Badge](https://img.shields.io/badge/-@vhsxuz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Krakenhaus404)
+![Twitter Badge](https://img.shields.io/badge/-@krakenhaus-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Krakenhaus404)
 ![Linkedin Badge](https://img.shields.io/badge/-AndreasAlexander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-alexander-045a521a9/)
 
 # Andreas Alexander <br>
