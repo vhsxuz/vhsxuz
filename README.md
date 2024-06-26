@@ -9,7 +9,7 @@
 
 <p align=center>
   <a href="https://www.linkedin.com/in/andreas-alexander-045a521a9/" target="blank">
-    <img align="center" src="Krakenhaus-1.png" width=30% />
+    <img align="center" src="A.png" width=30% />
   </a>
 </p>
 </p>
