@@ -53,7 +53,7 @@ I'm passionate about learning more about data science and software development, 
 ## 💻 My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=sentiment-analysis&theme=cobalt)](https://github.com/vhsxuz/streamlit-machine-learning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=fullstack-project&theme=cobalt)](https://github.com/vhsxuz/quanc-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=quanc-client&theme=cobalt)](https://github.com/vhsxuz/quanc-client)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhsxuz&repo=valorant-eda&theme=cobalt)](https://github.com/vhsxuz/backend-api-project)
 
