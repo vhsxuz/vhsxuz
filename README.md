@@ -27,8 +27,7 @@ I'm passionate about learning more about data science and software development, 
 - 🌱 I’m currently learning swift mobile app development and data science
 - 👯 I’m looking to collaborate on data science projects
 - 💬 Ask me about anything. I'll gladly answer your questions
-- 📫 How to reach me: andreas.alexander@binus.ac.id
-
+- 📫 How to reach me: drealexander.dev@gmail.com
 ## 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhsxuz&show_icons=true&theme=cobalt) <br>
 
