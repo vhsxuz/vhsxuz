@@ -23,9 +23,9 @@ I'm passionate about learning more about data science and software development, 
 <br>
 
 ## 🧐 About Myself
-- 🔭 I’m currently working as a ios developer
-- 🌱 I’m currently learning swift mobile app development and data science
-- 👯 I’m looking to collaborate on data science projects
+- 🔭 I’m currently working as a fullstack developer
+- 🌱 I’m currently learning blockchain development
+- 👯 I’m looking to collaborate on blockchain smart contract projects
 - 💬 Ask me about anything. I'll gladly answer your questions
 - 📫 How to reach me: drealexander.dev@gmail.com
 ## 📊 Github Stats
